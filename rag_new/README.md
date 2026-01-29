@@ -1,4 +1,4 @@
-# 🚀 Agentic RAG Pipeline (Industry-Grade)
+# 🚀 NexusRAG - Agentic RAG Pipeline
 
 > **"One command to convert arXiv chaos into IEEE clarity."**
 
@@ -168,3 +168,4 @@ rag_new/
 ---
 
 > **Note**: This is an "Industry-Ready" template. In a real deployment, you would replace ChromaDB with Pinecone/Weaviate and deploy the API via FastAPI.
+
