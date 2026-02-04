@@ -1,4 +1,4 @@
-# 🚀 NexusRAG - Agentic RAG Pipeline
+# 🚀 ResearchGPT - Agentic RAG Pipeline
 
 > **"One command to convert arXiv chaos into IEEE clarity."**
 
